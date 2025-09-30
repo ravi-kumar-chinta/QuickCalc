@@ -11,6 +11,8 @@
 **QuickCalc** is a simple, user-friendly web-based calculator built using **HTML, CSS, and JavaScript**.  
 It allows users to perform basic arithmetic operations quickly and efficiently, with a clean, responsive interface.
 
+**🔗 Watch it Live:** [QuickCalc Live Site](https://ravi-kumar-chinta.github.io/QuickCalc/)
+
 ---
 
 ## ✨ Key Features
